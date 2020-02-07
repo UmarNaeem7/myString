@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521656111 source:c:\users\m. umar naeem\source\code blocks\mystring\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+
